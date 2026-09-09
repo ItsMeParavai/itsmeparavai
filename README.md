@@ -1,50 +1,62 @@
 <div align="center">
 
-# Hi, I'm NEELAKANDAN N 👋
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=NEELAKANDAN%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematical%20Thinker%20%7C%20Data%20Analyst%20%7C%20OS%20Architect&descFontSize=18&descAlignY=58" width="100%" alt="Header Banner" />
 
-### Mathematical Thinker | Data Analyst | Android OS & Low-Level Enthusiast
-
+<!-- Dynamic Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=M.Sc.+Mathematics+Graduate;Data+Analytics+%26+Visualization+Specialist;Custom+ROM+Developer+%26+OS+Tinkerer;LaTeX+Typesetting+%26+Algorithmic+Research" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=M.Sc.+Mathematics+Graduate;Advanced+Data+Analytics+%26+EDA;Custom+ROM+Architecture+%26+Kernel+Tuning;Formal+LaTeX+Manuscript+Authoring" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelakandan-n/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsmeparavai.github.io/My-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelakandanmath@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ItsMeParavai&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ItsMeParavai)
+<!-- Connected Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/neelakandan-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://itsmeparavai.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" alt="Portfolio" />
+  </a>
+  <a href="mailto:neelakandanmath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ItsMeParavai&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&base=100" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🔮 Executive Overview
 
-- 🎓 **M.Sc. Mathematics** graduate with a strong foundation in algebraic structures, statistical modeling, and computational theory.
-- 📊 **Data Analytics practitioner** certified by Google, experienced in EDA, business intelligence dashboards, and exploratory pipelines with Pandas, Power BI, and Tableau.
-- 📱 **Low-level system enthusiast** specializing in custom Android distributions, firmware manipulation, recovery environments, and Linux system optimization.
-- 📝 Dedicated **LaTeX typesetter**, crafting technical manuscripts and formal mathematical documentation.
+> *"Bridging theoretical mathematics, statistical data modeling, and low-level system engineering."*
+
+* 🎓 **M.Sc. in Mathematics**: Specialized in advanced algebraic structures, fuzzy systems, and theoretical computation.
+* 📊 **Data Science & Analytics**: Certified by Google; proficient in end-to-end exploratory pipelines, data hygiene, and business intelligence dashboards.
+* ⚡ **Systems & Android OS Development**: Experienced in Android platform internals, bespoke AOSP distribution building, root frameworks, and hardware-level performance tuning.
+* 📐 **Technical Publication**: Expertise in publication-grade mathematical typography, symbolic computation, and document engineering using LaTeX.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 💻 Technical Arsenal
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Track | Stack & Tools |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `SQL` `PowerShell` `Bash` |
-| **Data & Analytics** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `Power Query` |
-| **Databases** | `PostgreSQL / MySQL` `MongoDB` |
-| **Systems & Platforms** | `Android Customization (ROMs/Root)` `Linux` `Windows Subsystem` `Git` |
-| **Academic & Media** | `LaTeX` `Blender 3D` `Video Editing Suites` `Microsoft Office Suite` |
+| **Core Languages** | `Python` `Java` `SQL` `PowerShell` `Bash` |
+| **Analytics & BI** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `Power Query` |
+| **Database Systems** | `PostgreSQL` `MySQL` `MongoDB` |
+| **OS & Environments** | `Android Internal Architecture (ROM/Kernel)` `Linux` `WSL2` `Git` |
+| **Specialized Software** | `LaTeX` `Blender 3D` `Video Editing Suites` `Microsoft 365` |
 
 <br/>
 
-<!-- Tech Stack Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,powershell,bash,linux,androidstudio,git,blender&theme=dark" alt="Tech Stack Icons" />
-</p>
+<!-- Modern Skill Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,mongodb,powershell,bash,linux,androidstudio,git,blender&theme=dark" alt="Tech Stack Icons" />
+</a>
 
 </div>
 
@@ -63,26 +75,29 @@
 
 ---
 
-### 📈 GitHub Metrics
+### 📊 Telemetry & Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ItsMeParavai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Neelakandan's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=ItsMeParavai&theme=tokyonight&hide_border=true" alt="Neelakandan's GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ItsMeParavai&show_icons=true&theme=radical&hide_border=false&border_color=00F2FE&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&count_private=true" alt="Neelakandan's GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ItsMeParavai&theme=radical&hide_border=false&border_color=00F2FE&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="Neelakandan's Streak" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ItsMeParavai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ItsMeParavai&layout=compact&theme=radical&hide_border=false&border_color=00F2FE&bg_color=0D1117&title_color=00F2FE" alt="Neelakandan's Top Languages" width="49%" />
 
 </div>
-### 📊 Contribution Matrix
+
+---
+
+### 🌐 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00D2FF/ItsMeParavai" alt="Neelakandan's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00F2FE/ItsMeParavai" alt="Neelakandan's Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Engineered with precision. Powered by Mathematics & Code.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,1&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
