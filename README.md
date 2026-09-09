@@ -30,7 +30,7 @@
 
 ### 🔮 Executive Overview
 
-> *"Bridging theoretical mathematics, statistical data modeling, and low-level system engineering."*
+> *"Applying pure mathematics and data-driven modeling to optimize systems and extract actionable insights."*
 
 * 🎓 **M.Sc. in Mathematics**: Specialized in advanced algebraic structures, fuzzy systems, and theoretical computation.
 * 📊 **Data Science & Analytics**: Certified by Google; proficient in end-to-end exploratory pipelines, data hygiene, and business intelligence dashboards.
