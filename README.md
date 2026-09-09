@@ -21,7 +21,7 @@
   <a href="mailto:neelakandanmath@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ItsMeParavai&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&base=100" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsMeParavai&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge&base=0" alt="Profile Views" />
 </p>
 
 </div>
