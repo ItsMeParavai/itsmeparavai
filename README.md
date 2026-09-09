@@ -98,6 +98,10 @@
 
 <br/>
 
+## Footer
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,1&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,1&height=120&section=footer&text=With%20Great%20Power%20Comes%20Great%20Responsibility&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
 </div>
