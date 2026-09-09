@@ -9,10 +9,10 @@
 </p>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/neelakandan-n/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://itsmeparavai.github.io/My-Portfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelakandan-n/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsmeparavai.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelakandanmath@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/itsmeparavai)
+[![Profile Views](https://komarev.com/ghpvc/?username=ItsMeParavai&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ItsMeParavai)
 
 </div>
 
@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **M.Sc. Mathematics** graduate with a strong foundation in algebraic structures, statistical modeling, and computational theory.[cite: 1]
-- 📊 **Data Analytics practitioner** certified by Google, experienced in EDA, business intelligence dashboards, and exploratory pipelines with Pandas, Power BI, and Tableau.[cite: 1]
-- 📱 **Low-level system enthusiast** specializing in custom Android distributions, firmware manipulation, recovery environments, and Linux system optimization.[cite: 1]
-- 📝 Dedicated **LaTeX typesetter**, crafting technical manuscripts and formal mathematical documentation.[cite: 1]
+- 🎓 **M.Sc. Mathematics** graduate with a strong foundation in algebraic structures, statistical modeling, and computational theory.
+- 📊 **Data Analytics practitioner** certified by Google, experienced in EDA, business intelligence dashboards, and exploratory pipelines with Pandas, Power BI, and Tableau.
+- 📱 **Low-level system enthusiast** specializing in custom Android distributions, firmware manipulation, recovery environments, and Linux system optimization.
+- 📝 Dedicated **LaTeX typesetter**, crafting technical manuscripts and formal mathematical documentation.
 
 ---
 
@@ -52,14 +52,14 @@
 
 ### 🚀 Featured Work & Projects
 
-* **Research on Algebraic Analysis on Fuzzy Systems**[cite: 1]  
-  *Investigated high-level algebraic theory applied to fuzzy logic systems, fully rendered and compiled into formal publication-grade documents via LaTeX.*[cite: 1]
+* **Research on Algebraic Analysis on Fuzzy Systems**  
+  *Investigated high-level algebraic theory applied to fuzzy logic systems, fully rendered and compiled into formal publication-grade documents via LaTeX.*
 
-* **Android OS Architecture & Optimization**[cite: 1]  
-  *Maintained and deployed custom ROM builds and kernel optimizations to enhance thermal efficiency, operational battery life, and system-level performance.*[cite: 1]
+* **Android OS Architecture & Optimization**  
+  *Maintained and deployed custom ROM builds and kernel optimizations to enhance thermal efficiency, operational battery life, and system-level performance.*
 
-* **End-to-End Data Analytics Masterclass (NoviTech R&D)**[cite: 1]  
-  *Engineered exploratory data analysis workflows, transforming messy data into automated visualizations and interactive dashboards.*[cite: 1]
+* **End-to-End Data Analytics Masterclass (NoviTech R&D)**  
+  *Engineered exploratory data analysis workflows, transforming messy data into automated visualizations and interactive dashboards.*
 
 ---
 
@@ -67,12 +67,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Neelakandan's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Neelakandan's GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ItsMeParavai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Neelakandan's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeParavai&theme=tokyonight&hide_border=true" alt="Neelakandan's GitHub Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeParavai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -81,7 +81,7 @@
 ### 📊 Contribution Matrix
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00D2FF/YOUR_GITHUB_USERNAME" alt="Neelakandan's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00D2FF/ItsMeParavai" alt="Neelakandan's Contribution Graph" />
 </div>
 
 <br/>
