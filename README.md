@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Neelakandan N 👋
+# Hi, I'm NEELAKANDAN N 👋
 
 ### Mathematical Thinker | Data Analyst | Android OS & Low-Level Enthusiast
 
