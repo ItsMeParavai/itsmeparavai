@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <!-- Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=NEELAKANDAN%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematical%20Thinker%20%7C%20Data%20Analyst%20%7C%20OS%20Architect&descFontSize=18&descAlignY=58" width="100%" alt="Header Banner" />
 
